@@ -916,7 +916,7 @@
  	 	 	 	 	"eng": "Give Street Cred"
  	 	 	 	},
  	 	 	 	"report": {
- 	 	 	 	 	"trans": "보고서 플레이어",
+ 	 	 	 	 	"trans": "플레이어 신고",
  	 	 	 	 	"eng": "Report Player"
  	 	 	 	}
  	 	 	},
@@ -5725,7 +5725,7 @@
  	 	 	 	"eng": "Block"
  	 	 	},
  	 	 	"report": {
- 	 	 	 	"trans": "보고 및 차단",
+ 	 	 	 	"trans": " 및 차단",
  	 	 	 	"eng": "Report and Block"
  	 	 	},
  	 	 	"openPlayerProfile": {
@@ -6031,7 +6031,7 @@
  	 	 	"eng": "reporting ${playerName}"
  	 	},
  	 	"description": {
- 	 	 	"trans": "보고서는 중재자에게 자동으로 전송됩니다. \\ n 보고서 시스템을 사용하여 오용, 스팸 또는 재생하지 마십시오",
+ 	 	 	"trans": "신고는 관리자에게 자동으로 전송됩니다. \\ n 신고 시스템을 사용하여 오용, 스팸하지 마십시오",
  	 	 	"eng": "Report will be sent to moderators automatically. \\nPlease do not misuses, spamming or play with the report system"
  	 	},
  	 	"textInput": {
@@ -6041,16 +6041,16 @@
  	 	 	}
  	 	},
  	 	"report": {
- 	 	 	"trans": "보고 및 차단",
+ 	 	 	"trans": "신고 및 차단",
  	 	 	"eng": "report and block"
  	 	},
  	 	"error": {
  	 	 	"otherNoText": {
- 	 	 	 	"trans": "\"기타\"의 보고서 유형에는 설명이 필요합니다",
+ 	 	 	 	"trans": "\"기타\"의 신고 유형에는 부가 설명이 필요합니다",
  	 	 	 	"eng": "Report type of \"Other\" needs a description"
  	 	 	},
  	 	 	"noReportType": {
- 	 	 	 	"trans": "보고서 유형을 선택해야합니다",
+ 	 	 	 	"trans": "신고 유형을 선택해야합니다",
  	 	 	 	"eng": "You need to select a report type"
  	 	 	}
  	 	}
